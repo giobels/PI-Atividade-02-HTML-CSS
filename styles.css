@@ -1,0 +1,30 @@
+.diva{
+    background-color:#ffcc88; 
+    width: 500px; 
+    height: 500px;
+}
+.diva div{
+    background-color: #88ff92; 
+    width: 50%; 
+    height: 50%
+}
+.diva p{
+    color: white; 
+    background-color: red; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+.divd{
+    width: 50%; 
+    height: 50vh; 
+    background-color: 
+    rgb(96, 151, 255);
+
+}
+.divd div{
+    width: 75vw; 
+    height:50%; 
+    background-color: 
+    rgb(255, 0, 0);
+}
